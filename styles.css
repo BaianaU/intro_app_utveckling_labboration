@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(238, 238, 230);
+    padding-top: 10px;
+}
+
+a:hover {
+
+    color: rgb(5, 136, 5);
+}
+
+p {
+
+
+    padding-top: 0px;
+}
+
+header {
+ 
+    padding-top: 15px;
+}
+
+.section-about {
+
+    height: 800px;
+    background-image: url(img/aboutUs.jpg);
+
+}
+
+.section-tjänster {
+
+    height: 500px;
+    background-image: url(img/flower.jpg);
+}
+
+.section-nyheter {
+
+    height: 900px;
+    background-image: url(img/flower.jpg);
+}
+
+.section-about {
+
+    height: 1000px;
+    background-image: url(img/tjänster.jpg);
+}
